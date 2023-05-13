@@ -1,0 +1,10 @@
+.pyc
+__pycache__
+.cache
+.*.sw*
+.morepystats
+.sw*
+.coverage
+*.egg-info
+build
+dist
